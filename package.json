@@ -19,6 +19,6 @@
   "homepage": "https://github.com/LearningMakesPeopleHappy/learning-client-resource#readme",
   "dependencies": {
     "crypto-js": "^4.0.0",
-    "marked": "^0.8.2"
+    "marked": "^4.0.10"
   }
 }
